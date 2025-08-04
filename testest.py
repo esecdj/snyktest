@@ -32,7 +32,7 @@ def sca_scan():
         })
         print(mylist)
     print(mylist)
-
+# testing pr
     for item in mylist:
         formatted_item = {
             'project': item.get('projectname', ''),
